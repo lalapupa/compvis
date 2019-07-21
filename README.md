@@ -8,7 +8,7 @@ Hi! This project is using `Jupiter Notebook` implementing `OpenCV-python` to tes
 -   [Virtualenv installation](https://github.com/lalapupa/compvis/blob/master/README.md#virtualenv-installation)
 -   [OpenCV-Python installation](https://github.com/lalapupa/compvis/blob/master/README.md#opencv-python-installation)
 -   [Tutorials](https://github.com/lalapupa/compvis/blob/master/README.md#tutorials)
--   [Additional information](https://github.com/rougier/numpy-tutorial#quick-references)
+-   [Additional information](https://github.com/lalapupa/compvis/blob/master/README.md#additional-information)
 
 Sources are available from  [github](https://github.com/lalapupa/compvis#opencv-python-tutorials).
 Tutorials are implemented from the official [OpenCV website](https://docs.opencv.org/4.1.0/d6/d00/tutorial_py_root.html).
